@@ -49,5 +49,8 @@ class ViewController: UIViewController, UIImagePickerControllerDelegate, UINavig
         
     }
     
+    func imagePickerControllerDidCancel(_ picker: UIImagePickerController) {
+        <#code#>
+    }
 }
 
